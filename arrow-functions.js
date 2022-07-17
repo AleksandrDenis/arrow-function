@@ -30,7 +30,7 @@ console.log(sum2);
 // Implicit Returns
 const saySomething = message => console.log(message);
 saySomething('Hello World!');
-const sayHello = () => console.log('Hello'); // declaring function empty ()
+const sayHello = () => console.log('Hello'); // declaring function empty no parametrs ()
 sayHello();
 
 // Returning Multiple Lines
